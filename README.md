@@ -1,5 +1,5 @@
 # T-Bot Thai Practice Chatbot
 An AI powered tool for Thai language learners.<br>
 - Practice Thai through text conversation with a chatbot.
-- The bot responds with text and audio.
-- Responses are translated into your first language.
+- The user inputs text. The bot responds with text and speech.
+- Text responses are translated into the user's first language.
