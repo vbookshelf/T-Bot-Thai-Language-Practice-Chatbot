@@ -12,6 +12,7 @@ https://t-bot.woza.work/
 
 ## Quick Info
 
+- Early prototype. The bot's Thai language capability can be bad at times
 - Mobile optimized web app
 - Minimalist and visually calm UI design
 - Frontend: Html, CSS, Javascript
