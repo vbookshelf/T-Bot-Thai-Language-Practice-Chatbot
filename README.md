@@ -6,10 +6,23 @@ An AI powered tool for Thai language learners.<br>
 
   <br>
 
-## Stack
-  - HTML
-  - CSS
-  - Javascript
-  - PHP
-  - Google Gemini Flash LLM
+## Quick Info
+
+- Mobile optimized web app
+- Minimalist and visually calm UI design
+- Frontend: Html, CSS, Javascript
+- Backend: PHP
+- Uses the Gemini 1.5 Flash API (Free version)
+- Set up as a three-agent LLM system - chat, correction, translation
+- Uses Javascript SpeechSynthesis to convert text to speech
+- Can be deployed on any website hosting platform
+
+<i>Powered by Google Gemini 1.5 Flash (Free version)<br>
+15 RPM (requests per minute)<br>
+1 million TPM (tokens per minute)<br>
+1,500 RPD (requests per day)</i>
+<br>
+<br>
+
+
   
