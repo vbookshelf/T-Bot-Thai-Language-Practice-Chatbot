@@ -6,7 +6,7 @@ An AI powered tool for Thai language learners.<br>
 
 Live Demo:<br>
 (Access from any device by simply typing this url into a web browser.)<br>
-xxxxx
+https://t-bot.woza.work/
 
 <br>
 
