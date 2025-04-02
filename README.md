@@ -4,7 +4,11 @@ An AI powered tool for Thai language learners.<br>
 - The user inputs text. The bot responds with text and speech.
 - Text responses are translated into the user's first language.
 
-  <br>
+Live Demo:<br>
+(Access from any device by simply typing this url into a web browser.)<br>
+xxxxx
+
+<br>
 
 ## Quick Info
 
