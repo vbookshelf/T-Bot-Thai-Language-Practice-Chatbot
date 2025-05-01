@@ -3,7 +3,6 @@
 ### Practice Thai conversation using AI
 
 Live Demo:<br>
-(Access from any device by simply typing this url into a web browser.)<br>
 https://t-bot.woza.work/
 
 <br>
