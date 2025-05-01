@@ -9,7 +9,7 @@ https://t-bot.woza.work/
 <br>
 
 ## Quick Info
-- Supports both text and voice input
+- Supports both voice and text inputs
 - Mobile optimized web app
 - Minimalist and visually calm UI design
 - Frontend: Html, CSS, Javascript
